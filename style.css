@@ -1,0 +1,83 @@
+@charset "utf-8";
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+}
+header {
+    text-align: center;
+    background-size: contain;
+    background-repeat: repeat;
+    background-color: #B6A8A9;
+    padding-bottom: 20px;
+    padding-top: 1px;
+}
+article h2 {
+    margin-top: 20px;
+    background-image: -webkit-linear-gradient(270deg,rgba(148,121,121,1.00) 0.35%,rgba(109,78,78,1.00) 30.75%,rgba(149,133,133,1.00) 57.17%,rgba(88,63,63,1.00) 82.22%);
+    background-image: -moz-linear-gradient(270deg,rgba(148,121,121,1.00) 0.35%,rgba(109,78,78,1.00) 30.75%,rgba(149,133,133,1.00) 57.17%,rgba(88,63,63,1.00) 82.22%);
+    background-image: -o-linear-gradient(270deg,rgba(148,121,121,1.00) 0.35%,rgba(109,78,78,1.00) 30.75%,rgba(149,133,133,1.00) 57.17%,rgba(88,63,63,1.00) 82.22%);
+    background-image: linear-gradient(180deg,rgba(148,121,121,1.00) 0.35%,rgba(109,78,78,1.00) 30.75%,rgba(149,133,133,1.00) 57.17%,rgba(88,63,63,1.00) 82.22%);
+    color: #FFFFFF;
+    padding-top: 3px;
+    padding-left: 10px;
+    padding-bottom: 3px;
+    font-size: x-large;
+    border-radius: 15px;
+}
+footer {
+    text-align: center;
+    font-size: small;
+    font-weight: bold;
+}
+article h4 {
+    margin-top: 10px;
+    padding-left: 10px;
+    width: 500px;
+    background-image: -webkit-linear-gradient(0deg,rgba(215,207,169,1.00) 0%,rgba(255,255,255,1.00) 97.92%);
+    background-image: -moz-linear-gradient(0deg,rgba(215,207,169,1.00) 0%,rgba(255,255,255,1.00) 97.92%);
+    background-image: -o-linear-gradient(0deg,rgba(215,207,169,1.00) 0%,rgba(255,255,255,1.00) 97.92%);
+    background-image: linear-gradient(90deg,rgba(215,207,169,1.00) 0%,rgba(255,255,255,1.00) 97.92%);
+}
+
+
+
+header nav {
+    text-align: center;
+    font-size: x-large;
+    font-weight: bolder;
+    color: #491415;
+}
+header a:link {
+    color: #835039;
+    text-decoration: none;
+}
+header a:hover {
+    color: #D5585A;
+    font-size: large;
+    text-decoration: underline;
+}
+header a:visited {
+    color: #927475;
+}
+article p {
+    padding-left: 10px;
+}
+ul li {
+    padding-left: 0px;
+    margin-left: -6px;
+}
+.picture {
+    margin-left: auto;
+    padding-right: auto;
+    margin-right: auto;
+    width: 1000px;
+    display: table;
+    padding-left: 400px;
+
+}
+.word  {
+    padding-left: 10px;
+
+
+}
